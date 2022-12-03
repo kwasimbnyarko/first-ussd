@@ -2,7 +2,7 @@
 
 This repo details my path on writing my first USSD Application
 
-#HOW TO TEST
+# HOW TO TEST
 
 To test this spin up an [ngrok](https://ngrok.com) server using port number 5111.
 `$ ngrok http 5111`
